@@ -46,9 +46,3 @@ Pastikan Anda telah menginstal perangkat lunak berikut di sistem Anda:
     ```
     http://localhost/website-donasi
     ```
-
-## Penggunaan
-
-1. Akses halaman utama website dan gunakan formulir donasi untuk menyumbangkan dana.
-2. Setelah mengisi formulir, Anda akan diarahkan ke halaman konfirmasi donasi.
-
