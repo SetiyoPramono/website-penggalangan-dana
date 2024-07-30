@@ -15,7 +15,7 @@ Ini adalah proyek website donasi sederhana yang dibangun menggunakan PHP murni. 
 Pastikan Anda telah menginstal perangkat lunak berikut di sistem Anda:
 
 - [XAMPP](https://www.apachefriends.org/index.html) (untuk lingkungan pengembangan lokal)
-- PHP versi 7.4 atau lebih tinggi
+- PHP versi 5.3 atau lebih tinggi
 
 ## Instalasi
 
